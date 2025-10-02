@@ -11,7 +11,7 @@ It serves as a simple educational example of:
 
 ---
 
-## 🛠 Hardware Setup
+##  Hardware Setup
 
 ### Board 1 – Transmitter (TX)
 - Samples analog input on **PA1 (ADC)**  
